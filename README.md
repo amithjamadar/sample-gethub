@@ -1,1 +1,2 @@
 # sample-gethub
+getting started
